@@ -16,3 +16,6 @@
 ## 🧰 自动化利用
 ```bash
 sqlmap -u "http://localhost/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit" --cookie="PHPSESSID=xxx" --dbs
+
+## 📕 参考文献
+https://portswigger.net/web-security/sql-injection
