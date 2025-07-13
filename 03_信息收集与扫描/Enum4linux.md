@@ -49,9 +49,7 @@ smbclient //[IP地址]/[共享名] -U [用户名] -p [端口]
 
 📌 示例：
 
-bash
-复制
-编辑
+bash：
 smbclient //10.10.10.10/secrets -U Anonymous -p 445
 
 📘 smbclient 交互命令速查表
