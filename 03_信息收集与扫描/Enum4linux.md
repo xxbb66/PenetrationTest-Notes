@@ -2,7 +2,7 @@
 # Enum4linux    工具使用
 
 ## 🌐 工具介绍
-- Enum4linux 是一款用于枚举Windows 和Linux系统上的SMB共享的工具。它本质上是对 Samba 软件包中工具的包装，可以轻松快速地从目标中提取与SMB相关的信息
+- Enum4linux 是一款用于枚举Windows 和Linux系统上的SMB共享的工具。它本质上是对 Samba 软件包中工具的包装，可以轻松快速地从目标中提取与SMB相关的信息，如果您需要在自己的攻击机器上安装它，<a href="https://www.samba.org/samba/docs/current/man-html/smbclient.1.html">您可以在此处找到相关文档</a>。
 
 ## 🔍 功能介绍
 -U 获取用户列表
